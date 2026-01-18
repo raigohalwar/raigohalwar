@@ -1,138 +1,61 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=180&section=header&text=raigohalwar's%20Domain%20✨&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
-</p>
+<!-- GitHub Profile Bio (README.md compatible). Paste into your profile README or bio-supported field. -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=FFC107&center=true&width=600&lines=Innovate.+Code.+Impact." alt="Typing Animation" />
-</p>
+<div align="center" style="padding:18px 16px;border:1px solid #2f3336;border-radius:14px;">
+  <h2 style="margin:0 0 6px 0;">Raigo Halwar</h2>
+  <div style="opacity:0.85;margin-bottom:10px;">
+    Traditional developer → now all-in on AI/ML.
+  </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,docker,githubactions,linux" height="60"/>
+  <div style="margin:10px 0 14px 0;">
+    <a href="https://github.com/raigohalwar" style="text-decoration:none;margin:0 10px;">GitHub</a>
+    <span style="opacity:0.5;">•</span>
+    <a href="mailto:MystixOG@gmail.com" style="text-decoration:none;margin:0 10px;">Email</a>
+  </div>
+
+  <div style="display:inline-block;text-align:left;max-width:820px;">
+    <h3 style="margin:12px 0 8px 0;">About</h3>
+    <ul style="margin:0;padding-left:18px;line-height:1.55;">
+      <li>Building reliable software systems—and now applying the same rigor to <b>AI/ML</b>.</li>
+      <li>Interested in <b>LLMs</b>, <b>applied ML</b>, <b>data pipelines</b>, and <b>production-grade AI</b>.</li>
+      <li>Bias toward clean architecture, measurable results, and shipping.</li>
+    </ul>
+
+    <h3 style="margin:14px 0 8px 0;">Current Focus</h3>
+    <ul style="margin:0;padding-left:18px;line-height:1.55;">
+      <li>Learning: model training basics, evaluation, deployment, MLOps.</li>
+      <li>Building: small projects that prove value end-to-end (data → model → app).</li>
+      <li>Exploring: retrieval (RAG), fine-tuning, agents, and inference optimization.</li>
+    </ul>
+
+    <h3 style="margin:14px 0 8px 0;">Tech</h3>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;">
+      <span style="border:1px solid #2f3336;border-radius:999px;padding:6px 10px;">Python</span>
+      <span style="border:1px solid #2f3336;border-radius:999px;padding:6px 10px;">JavaScript / TypeScript</span>
+      <span style="border:1px solid #2f3336;border-radius:999px;padding:6px 10px;">APIs</span>
+      <span style="border:1px solid #2f3336;border-radius:999px;padding:6px 10px;">SQL</span>
+      <span style="border:1px solid #2f3336;border-radius:999px;padding:6px 10px;">Docker</span>
+      <span style="border:1px solid #2f3336;border-radius:999px;padding:6px 10px;">Git</span>
+      <span style="border:1px solid #2f3336;border-radius:999px;padding:6px 10px;">Linux</span>
+      <span style="border:1px solid #2f3336;border-radius:999px;padding:6px 10px;">ML / LLMs</span>
+    </div>
+
+    <h3 style="margin:14px 0 8px 0;">What I Like Working On</h3>
+    <ul style="margin:0;padding-left:18px;line-height:1.55;">
+      <li>Tools that automate boring work.</li>
+      <li>Systems that are fast, observable, and resilient.</li>
+      <li>AI features that actually ship (not demo-only).</li>
+    </ul>
+
+    <h3 style="margin:14px 0 8px 0;">Open To</h3>
+    <ul style="margin:0;padding-left:18px;line-height:1.55;">
+      <li>Collabs on practical AI/ML projects.</li>
+      <li>Code reviews / pairing on “first real ML project” builds.</li>
+      <li>Interesting backend + ML integrations.</li>
+    </ul>
+
+    <div style="margin-top:16px;padding-top:14px;border-top:1px solid #2f3336;opacity:0.9;">
+      <div><b>Contact:</b> <a href="mailto:MystixOG@gmail.com" style="text-decoration:none;">MystixOG@gmail.com</a></div>
+      <div style="margin-top:6px;"><b>Handle:</b> <a href="https://github.com/raigohalwar" style="text-decoration:none;">@raigohalwar</a></div>
+    </div>
+  </div>
 </div>
-
-<div align="center">
-  <b><i>“The best way to predict the future is to create it.”</i></b>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=header" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=header" width="100%" />
-</p>
-
-## 💡 About Me
-
-<div align="center">
-  Hello there! I'm <strong>raigohalwar</strong>, a passionate developer focused on building robust and scalable software solutions.<br/>
-  I enjoy delving into new technologies and contributing to the open-source community.<br/>
-  Let's connect and create something amazing!
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=header" width="100%" />
-</p>
-
-## 🔥 Programmer Activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Always%20Coding-FFC107?style=for-the-badge&logo=visualstudiocode&logoColor=FF5722" />
-  <img src="https://img.shields.io/badge/Weekly%20Commits-8BC34A?style=for-the-badge&logo=git&logoColor=FFC107" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Active-00BCD4?style=for-the-badge&logo=github&logoColor=8BC34A" />
-</p>
-
-<p align="center">
-  <i>“The only way to do great work is to love what you do.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=header" width="100%" />
-</p>
-
-## 🛸 Tech Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=8BC34A"/>
-  <img src="https://img.shields.io/badge/-TypeScript-8BC34A?style=for-the-badge&logo=typescript&logoColor=00BCD4"/>
-  <img src="https://img.shields.io/badge/-Python-00BCD4?style=for-the-badge&logo=python&logoColor=9C27B0"/>
-  <img src="https://img.shields.io/badge/-Go-9C27B0?style=for-the-badge&logo=go&logoColor=FF5722"/>
-  <img src="https://img.shields.io/badge/-React-FF5722?style=for-the-badge&logo=react&logoColor=FFC107"/>
-  <img src="https://img.shields.io/badge/-Next.js-FFC107?style=for-the-badge&logo=next.js&logoColor=8BC34A"/>
-  <img src="https://img.shields.io/badge/-Node.js-8BC34A?style=for-the-badge&logo=node.js&logoColor=00BCD4"/>
-  <img src="https://img.shields.io/badge/-Docker-00BCD4?style=for-the-badge&logo=docker&logoColor=9C27B0"/>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-9C27B0?style=for-the-badge&logo=github-actions&logoColor=FF5722"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=header" width="100%" />
-</p>
-
-## 📊 My GitHub in Numbers
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raigohalwar&show_icons=true&theme=dracula&hide_border=true&title_color=00BCD4&icon_color=FFC107&text_color=8BC34A&border_color=FFC107" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raigohalwar&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=8BC34A&icon_color=00BCD4&text_color=FFC107&border_color=8BC34A" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raigohalwar&theme=dracula&hide_border=true&border_color=00BCD4" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raigohalwar&theme=dracula" height="165"/>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/raigohalwar?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=FFC107&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=100&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=80&section=header" width="100%" />
-</p>
-
-## 🏆 My GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=raigohalwar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=80&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=150&section=footer&fontColor=fff&text=Happy%20Coding!%20%F0%9F%92%A1&fontSize=30" width="100%" alt="footer"/>
-  <br/>
-  <blockquote>
-    <p><strong>“It's not a bug, it's an undocumented feature.”</strong></p>
-  </blockquote>
-</p>
